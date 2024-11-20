@@ -3,7 +3,7 @@ package zuc
 import (
 	"crypto/cipher"
 	"encoding/hex"
-	"sm_implements/cryptotest"
+	"smImplements/utils/cryptotest"
 	"testing"
 )
 

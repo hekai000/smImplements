@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"hash"
-	"sm_implements/cryptotest"
+	"smImplements/utils/cryptotest"
 	"testing"
 )
 
