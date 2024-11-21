@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/emmansun/gmsm/internal/cryptotest"
+	"smImplements/utils/cryptotest"
 )
 
 type CryptTest struct {

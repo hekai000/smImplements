@@ -6,7 +6,7 @@ import (
 	"crypto/cipher"
 	"crypto/subtle"
 
-	"github.com/emmansun/gmsm/internal/alias"
+	"smImplements/utils/alias"
 )
 
 // Assert that sm4CipherGCM implements the gcmAble interface.

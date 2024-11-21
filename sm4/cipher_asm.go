@@ -6,8 +6,10 @@ import (
 	"crypto/cipher"
 	"os"
 
-	"github.com/emmansun/gmsm/internal/alias"
-	"github.com/emmansun/gmsm/internal/cpuid"
+	"smImplements/utils/cpuid"
+
+	"smImplements/utils/alias"
+
 	"golang.org/x/sys/cpu"
 )
 

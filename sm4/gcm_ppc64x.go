@@ -13,8 +13,9 @@ import (
 	"errors"
 	"runtime"
 
-	"github.com/emmansun/gmsm/internal/alias"
-	"github.com/emmansun/gmsm/internal/subtle"
+	"smImplements/utils/alias"
+
+	"smImplements/utils/subtle"
 )
 
 // Assert that sm4CipherAsm implements the gcmAble interface.
